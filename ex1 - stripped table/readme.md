@@ -1,4 +1,4 @@
-# Challenge 1 - Striped Table 
+	# Challenge 1 - Striped Table 
 
 ## Task
 
